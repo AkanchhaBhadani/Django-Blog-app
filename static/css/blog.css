@@ -1,0 +1,27 @@
+body{
+	background-color: aliceblue;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	text-align: left;
+	padding: 1px;
+}
+#content{
+	border: 2px solid skyblue;
+}
+
+#sidebar{
+	background-color: bisque;
+	padding: 2px;
+	border: 2px solid orange;
+}
+
+.date{
+	font-weight: normal;
+	color: grey;
+	font-size: 5;
+}
+
+h1{
+	border-bottom: 1px ridge grey;
+	width:  60%;
+	text-align: right;
+}
